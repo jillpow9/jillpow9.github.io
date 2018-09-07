@@ -1,0 +1,28 @@
+
+
+html, body {
+    background: #856686;
+    font-size: 20px;
+    font-family: 'Covered By Your Grace', cursive;
+    color: #eeb902;
+}
+@media (min-width:420px) and (max-width:1600px){
+    html, body {
+        font-size: 14px;
+    }
+}
+@media (min-width: 1600px){
+    html, body {
+        font-size: 20px; 
+    }
+}
+
+h1, h2,{
+    font-family: 'Syncopate', sans-serif;
+    text-transform: uppercase;
+    margin: 0px;
+}
+.header-img {
+    width: 100%;
+    height: auto;
+}
