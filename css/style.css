@@ -67,7 +67,7 @@ body h3{
     color: #8C5E58;
 }
 .nav-bg a:hover{
-    color: #FFF7F8
+    color: #FFF7F8;
     text-decoration: none;
 }
 @media (min-width:420px) and (max-width:1600px){
@@ -127,6 +127,15 @@ p{
 .project p{
     color: #A9F0D1;
 }
+.pic{
+    margin-bottom: 50px;
+}
+.picc{
+    margin-bottom: 50px;
+}
+.piccc{
+    margin-bottom: 50px;
+}
 
 /*Contact*/
 .contact{
@@ -144,6 +153,12 @@ p{
 .contact a:hover{
     color: #FFF7F8;
     text-decoration: none;
+}
+.info{
+    font-size: 20px;
+}
+.info ul{
+    margin-left: -38px;
 }
 .footer{
     background-color: #A9F0D1;
@@ -167,4 +182,15 @@ p{
 }
 .row{
     font-family: 'Acme', sans-serif;
+}
+body{
+    background-color: blueviolet;
+
+}  
+.center{
+    margin-right: 10px;
+    list-style: none;
+    color:darkgreen;
+    width: 1200px;
+    margin: 0 auto;
 }
